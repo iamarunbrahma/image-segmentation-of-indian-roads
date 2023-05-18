@@ -1,5 +1,5 @@
 # Image Segmentation of Indian Roads
-Image Segmentation is one of the applications in Computer Vision. In this project, we will analyze a video recording of a vehicle driving on the road and we are going to classify each object in each frame and compute semantic segmentation for each frame in this video.
+Image Segmentation is one of the applications in Computer Vision. In this project, we analyzed a video recording of a vehicle driving on the road and we are going to classify each object in each frame and compute semantic segmentation for each frame in this video.
 
 ## Steps:-
 - Extract frames and their corresponding frames from a zip file
